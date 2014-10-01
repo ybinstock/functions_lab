@@ -15,9 +15,8 @@ Functions Lab
    Bonus: Appreciate the difference between logging from within the
    function and returning a value to be logged outside the function.
 
-4.
-    * Write a function add() that takes two numbers as arguments and
-      returns the sum.
+4.  Write a function add() that takes two numbers as arguments and
+    returns the sum.
 
     * Write a function sub() take takes two numbers as arguments and
       returns the difference.
